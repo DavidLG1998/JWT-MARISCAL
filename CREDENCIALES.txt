@@ -1,0 +1,2 @@
+USUARIO: admin
+PASSWORD: 123456
